@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jo34589
+- 👋 Hi, I’m N_Naru
 - 👀 I’m interested in and currently learning: Swift, iOS, Algorithms
 - 📫 How to reach me deadee31@gmail.com
 
